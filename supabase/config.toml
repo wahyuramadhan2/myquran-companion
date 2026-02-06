@@ -1,0 +1,4 @@
+project_id = "uesvxwtyidsoojowakuo"
+
+[functions.quran-api]
+verify_jwt = false
